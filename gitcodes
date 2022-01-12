@@ -11,3 +11,4 @@
 11. git push origin master
 12. git restore demofile.txt
 13. git remote -v
+14. git remote add origin https://github.com/praviinpawar/SecondRepository.git
