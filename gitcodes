@@ -4,3 +4,10 @@
 4. cat
 5. git pull
 6. clear
+7. git status
+8. git add demofile.txt
+9. git restore --staged demofile.txt
+10. git commit -m "msg for commit"
+11. git push origin master
+12. git restore demofile.txt
+13. git remote -v
