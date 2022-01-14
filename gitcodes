@@ -15,3 +15,4 @@
 15. git branch
 16. git branch newbranchname
 17. git checkout newbranchname
+18. git checkout -b newbranchname2
