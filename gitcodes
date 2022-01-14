@@ -12,3 +12,6 @@
 12. git restore demofile.txt
 13. git remote -v
 14. git remote add origin https://github.com/praviinpawar/SecondRepository.git
+15. git branch
+16. git branch newbranchname
+17. git checkout newbranchname
