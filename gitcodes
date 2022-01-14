@@ -17,3 +17,5 @@
 17. git checkout newbranchname
 18. git checkout -b newbranchname2
 19. git branch -m newbranchname branch1
+20. git merge master
+21. git log
